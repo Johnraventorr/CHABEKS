@@ -1,0 +1,107 @@
+{
+  "nextNumber": 1002,
+  "secret": "e1e652a730d7738a8eda0ce1e5772b3f99ada52c7829e12ec29a5ed4c62333d7",
+  "users": [
+    {
+      "id": "64086ce5-0e29-4cec-a139-d9317b171e6e",
+      "name": "Administrator",
+      "username": "admin",
+      "contact": "",
+      "role": "admin",
+      "password": "d3f16f59a86a0842b91d1e77b4886b42:829fac90db4f745066b89fae45785072dac90c6fe5db9fa45b8ab4b327e410ae908a7069a7481c099ae5ecb1a92a46ce3a442d5f99a24191f744ce855c4a5c2f",
+      "createdAt": "2026-10-12T15:30:07.655Z"
+    },
+    {
+      "id": "8e639750-a36d-4a19-87f3-b3b94ee1b050",
+      "name": "Jraven Torreliza",
+      "username": "jraventorreliza",
+      "email": "jraventorreliza@gmail.com",
+      "contact": "",
+      "address": "",
+      "street": "",
+      "barangay": "",
+      "municipality": "",
+      "province": "",
+      "postalCode": "",
+      "landmark": "",
+      "role": "user",
+      "googleSub": "WJm5DywW2EX3w5E834bq2t9vOXx1",
+      "password": "",
+      "createdAt": "2026-10-12T15:33:37.655Z"
+    },
+    {
+      "id": "3ab4872e-3993-4e66-878d-d0bbdf14cff3",
+      "name": "Jraven Torreliza",
+      "username": "jrav12jk",
+      "email": "johnraventorreliza@gmail.com",
+      "contact": "09383530188",
+      "address": "mansalay poblacion, Barangay poblacion, manslaay, oriental, 5213, Landmark: apoa",
+      "street": "mansalay poblacion",
+      "barangay": "poblacion",
+      "municipality": "manslaay",
+      "province": "oriental",
+      "postalCode": "5213",
+      "landmark": "apoa",
+      "role": "user",
+      "password": "f1b846f3c0c9570d5f2aeec3dbc43aca:4b5a65bb8393deb0c14f45bd5e493bae131b4e29ef08425fd5e2855e0ec98f204c035231e591b8d676bbf5b4f42385b7c87d32ace79d05ccdf53e37a1a27da0d",
+      "createdAt": "2026-10-17T13:20:40.066Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "cdffbf78-71e1-45bf-97f6-dae6a4f4c907",
+      "receiptNo": "CHB-1001",
+      "userId": "3ab4872e-3993-4e66-878d-d0bbdf14cff3",
+      "username": "jrav12jk",
+      "customer": "Jraven Torreliza",
+      "contact": "09383530188",
+      "fulfillment": "Delivery",
+      "address": "mansalay poblacion, Barangay poblacion, manslaay, oriental, 5213, Landmark: apoa",
+      "pickupAt": "2026-10-19T01:21:00.000Z",
+      "payment": "Cash",
+      "paid": false,
+      "paymentProof": "",
+      "notes": "",
+      "items": [
+        {
+          "item": "OG Choco Chip",
+          "label": "per piece",
+          "n": 1,
+          "price": 50
+        },
+        {
+          "item": "Red Velvet",
+          "label": "per piece",
+          "n": 1,
+          "price": 50
+        },
+        {
+          "item": "Choconana & Nuts",
+          "label": "400 g",
+          "n": 1,
+          "price": 170
+        },
+        {
+          "item": "Choconana Biscoff",
+          "label": "400 g",
+          "n": 1,
+          "price": 180
+        }
+      ],
+      "total": 450,
+      "status": "Pending",
+      "createdAt": "2026-10-17T13:21:43.809Z",
+      "history": [
+        {
+          "status": "Pending",
+          "at": "2026-10-17T13:21:43.809Z"
+        }
+      ]
+    }
+  ],
+  "menu": {
+    "Classic Brownie|box of 6": {
+      "available": true
+    }
+  }
+}
